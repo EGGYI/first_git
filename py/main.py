@@ -7,5 +7,5 @@ for i in range(10):
 
 
 
-print('456')
+print('45600')
 
